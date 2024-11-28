@@ -1,0 +1,6 @@
+streamlit
+Pandas
+BeautifulSoup4
+lxml
+yfinance
+matplotlib
