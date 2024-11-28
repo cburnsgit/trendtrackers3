@@ -1,6 +1,8 @@
 streamlit
-Pandas
-BeautifulSoup4
-lxml
+feedparser
+pandas
+numpy
+requests
 yfinance
 matplotlib
+Plotly
